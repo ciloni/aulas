@@ -2,7 +2,7 @@
 ##### Canal: https://www.youtube.com/@professor-flavio
 ##### Skype: flavio_ac@outlook.com
 # Fundamentos de Sistemas de Informação (SI)
-##  - Tópicos
+## Tópicos
 ### 	Sistemas Operacionais (Windows , Linux, Apple)
 #### 		CPU (Processamento)
 #### 		Memória volátil (Váriaveis)
@@ -11,9 +11,9 @@
 ### 	Frameworks
 	
 # Linguagens e Técnicas de Programação (LTP)
-##  - Algoritimos
+##   Algoritimos
 ###     Portugol
-##  - Lógica de programação
+##   Lógica de programação
 ### 	Introdução 
 #### 	 Conceitos básicos: algoritmos, variáveis, tipos de dados.
 ### 	Estruturas de Controle
